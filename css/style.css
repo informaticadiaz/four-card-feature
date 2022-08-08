@@ -94,7 +94,7 @@ img {
   box-shadow: 0 2px 8px 0 var(--Very-Light-Gray),
     0 2px 10px 0 var(--Grayish-Blue);
 }
-@media (min-width: 500px) {
+@media (min-width: 650px) {
   h1 {
     font-size: 2vw;
   }
@@ -111,7 +111,7 @@ img {
     float: right;
   }
   .box_header {
-    width: 40vw;
+    width: 28vw;
     margin: 5vh auto;
   }
 
@@ -120,24 +120,24 @@ img {
     height: 30vh;
     padding: 2vw;
     position: absolute;
-    top: 40%;
-    left: 18vw;
+    top: 40vh;
+    left: 20vw;
   }
   .team {
     width: 20vw;
     height: 30vh;
     padding: 2%;
     position: absolute;
-    top: 30vh;
-    left: 40vw;
+    top: 22vh;
+    left: 42vw;
   }
   .karma {
     width: 20vw;
     height: 30vh;
     padding: 2vw;
     position: absolute;
-    top: 64%;
-    left: 40vw;
+    top: 55vh;
+    left: 42vw;
   }
   .calculator {
     width: 20vw;
@@ -145,7 +145,7 @@ img {
     padding: 2vw;
     position: absolute;
     top: 40vh;
-    left: 62vw;
+    left: 64vw;
   }
   .attribution {
     position: absolute;
